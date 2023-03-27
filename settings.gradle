@@ -1,0 +1,3 @@
+include ':cycleLayout'
+include ':app'
+rootProject.name = "cycleLayoutManager"
