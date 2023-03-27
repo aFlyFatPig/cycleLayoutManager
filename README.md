@@ -24,6 +24,6 @@
 #### 和LinearLayoutManager一样使用
 
        CycleLayoutManager layoutManager =  new CycleLayoutManager();
-        layoutManager.setOrientation(RecyclerView.HORIZONTAL/VERTICAL);
-        recyclerView.setLayoutManager(layoutManager);
+       layoutManager.setOrientation(RecyclerView.HORIZONTAL/VERTICAL);
+       recyclerView.setLayoutManager(layoutManager);
   
